@@ -5,7 +5,7 @@ link: http://t.me/dexo_gta_bot/gta
 
 nom: DexoGallery
 tavsif: Bepul rasmlar toplami
-rasm: dexogallery.png
+rasm: DexoGallery.png
 link: https://t.me/DexoGallerybot/gallery
 
 nom: DEXO AI
