@@ -1,0 +1,14 @@
+nom: DEXO GTA
+tavsif: dexo gta mashhur mashinalar
+rasm: dexogta.png
+link: https://dexogta.com
+
+nom: DEXO WEB
+tavsif: zamonaviy veb-saytlar va platformalar
+rasm: web.png
+link: https://dexoweb.com
+
+nom: DEXO AI
+tavsif: sun'iy intellekt yordamchisi
+rasm: ai.png
+link: https://dexoai.com

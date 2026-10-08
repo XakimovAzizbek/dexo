@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>DEXO — Brend va Loyihalar</title>
+<link rel="stylesheet" href="index.css" />
+</head>
+<body>
+
+  <!-- NAVBAR -->
+  <nav>
+    <div class="logo" onclick="window.scrollTo({top:0,behavior:'smooth'})">DEXO</div>
+    <ul class="nav-links">
+      <li><a href="#projects">Loyihalar</a></li>
+      <li><a href="#about">Biz haqimizda</a></li>
+      <li><a href="#contact">Aloqa</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero">
+    <h1>DEXO</h1>
+    <p>Kelajakni yaratuvchi loyihalar brendi. Har bir loyiha <b>DEXO</b> nomi bilan boshlanadi.</p>
+    <div class="hero-buttons">
+      <a href="#projects" class="btn btn-primary">Loyihalarni ko‘rish</a>
+      <a href="#about" class="btn btn-outline">Batafsil</a>
+    </div>
+  </header>
+
+  <!-- PROJECTS -->
+  <section id="projects">
+    <h2 class="section-title">Bizning <span>Loyihalar</span></h2>
+    <p class="section-sub">DEXO oilasiga kiruvchi barcha loyihalar</p>
+
+    <div class="projects-grid" id="projectsGrid">
+      <!-- JS shu yerga loyihalarni joylaydi -->
+    </div>
+
+    <div class="loading" id="projectsLoading">⏳ Loyihalar yuklanmoqda...</div>
+    <div class="error-box" id="projectsError" style="display:none;"></div>
+  </section>
+
+  <!-- ABOUT -->
+  <section id="about">
+    <h2 class="section-title">Biz <span>haqimizda</span></h2>
+    <p class="section-sub">DEXO — bu g‘oyalar va texnologiyalar birlashadigan joy</p>
+
+    <div class="about-content">
+      <div class="stat-box">
+        <div class="stat-number" id="statProjects">0</div>
+        <div class="stat-label">LOYIHALAR</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-number">∞</div>
+        <div class="stat-label">G‘OYALAR</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-number">100%</div>
+        <div class="stat-label">MEHNAT</div>
+      </div>
+      <div class="stat-box">
+        <div class="stat-number">24/7</div>
+        <div class="stat-label">RIVOJLANISH</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer id="contact">
+    <div class="logo">DEXO</div>
+    <p>Kelajakni birga quramiz 🚀</p>
+    <div class="socials">
+      <a href="#" title="Telegram">✈️</a>
+      <a href="#" title="Instagram">📷</a>
+      <a href="#" title="YouTube">▶️</a>
+      <a href="#" title="GitHub">💻</a>
+    </div>
+    <p>© 2025 DEXO. Barcha huquqlar himoyalangan.</p>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>
