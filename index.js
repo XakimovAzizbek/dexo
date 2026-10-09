@@ -81,10 +81,8 @@ function createCard(p) {
     card.rel = 'noopener noreferrer';
   }
 
-  /* Tag: "DEXO GTA" -> "GTA" */
   const tagText = p.nom.replace(/^DEXO\s*/i, '').trim() || 'LOYIHA';
 
-  /* Rasm qismi */
   const imageWrap = document.createElement('div');
   imageWrap.className = 'project-image';
 
@@ -101,7 +99,6 @@ function createCard(p) {
     imageWrap.innerHTML = '<div class="fallback-icon">📦</div>';
   }
 
-  /* Matn qismi */
   const body = document.createElement('div');
   body.className = 'project-body';
 
