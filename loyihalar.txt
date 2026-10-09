@@ -1,7 +1,7 @@
 nom: DEXO GTA
 tavsif: dexo gta mashhur mashinalar
 rasm: dexogta.png
-link: http://t.me/dexo_gta_bot/gta
+link: http://gta.dexo.dpdns.org
 
 nom: DexoGallery
 tavsif: Bepul rasmlar toplami
