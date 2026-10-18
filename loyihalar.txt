@@ -8,7 +8,14 @@ tavsif: Bepul rasmlar toplami
 rasm: DexoGallery.png
 link: https://t.me/DexoGallerybot/gallery
 
-nom: DEXO AI
-tavsif: sun'iy intellekt yordamchisi
-rasm: ai.png
-link: 
+nom: Flag Battle bot
+tavsif: ⚔️🌎 Flag Battle Royale
+🏁 All nations enter the ring – only one leaves!
+🔄 They spin, collide, and hunt for the gap.
+⭕ One wrong move – and you're out!
+🏆 Last flag flying wins the round.
+📊 Top 5 champs are shown after every fight.
+🎵 Collision sounds, win/lose tones, and next-round music included!
+👀 Who will dominate? Tune in and see! 🚀
+rasm: FlagBattlebot.png
+link: https://t.me/Flag_Battle_bot/flag_battle
