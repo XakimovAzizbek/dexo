@@ -9,22 +9,11 @@ rasm: DexoGallery.png
 link: https://t.me/DexoGallerybot/gallery
 
 nom: Flag Battle bot
-tavsif: ⚔️🌎 Flag Battle Royale
-🏁 All nations enter the ring – only one leaves!
-🔄 They spin, collide, and hunt for the gap.
-⭕ One wrong move – and you're out!
-🏆 Last flag flying wins the round.
-📊 Top 5 champs are shown after every fight.
-🎵 Collision sounds, win/lose tones, and next-round music included!
-👀 Who will dominate? Tune in and see! 🚀
+tavsif: ⚔️🌎 Flag Battle Royale 🏁 All nations enter the ring – only one leaves! 🔄 They spin, collide, and hunt for the gap. ⭕ One wrong move – and you're out! 🏆 Last flag flying wins the round. 📊 Top 5 champs are shown after every fight. 🎵 Collision sounds, win/lose tones, and next-round music included! 👀 Who will dominate? Tune in and see! 🚀
 rasm: FlagBattlebot.png
 link: https://t.me/Flag_Battle_bot/flag_battle
 
 nom: Avee player
-tavsif: AVEE Player: a web-based music player featuring beautiful visualizers. Includes effects such as shaking in sync with the bass, flashes, glitches, shockwaves, particles, and laser beams.
-4 different visualizers and 6 color themes
-Sound effects: Bass Boost, Phonk Drive, Slowed + Reverb, Nightcore, 8D
-Playlist, shuffle, and repeat functions
-Record and save videos with visualizers in MP4 format
+tavsif: AVEE Player: a web-based music player featuring beautiful visualizers. Includes effects such as shaking in sync with the bass, flashes, glitches, shockwaves, particles, and laser beams. 4 different visualizers and 6 color themes Sound effects: Bass Boost, Phonk Drive, Slowed + Reverb, Nightcore, 8D Playlist, shuffle, and repeat functions Record and save videos with visualizers in MP4 format
 rasm: aveeplayer.jpg
 link: https://player.dexo.dpdns.org/
