@@ -17,3 +17,8 @@ nom: Avee player
 tavsif: AVEE Player: a web-based music player featuring beautiful visualizers. Includes effects such as shaking in sync with the bass, flashes, glitches, shockwaves, particles, and laser beams. 4 different visualizers and 6 color themes Sound effects: Bass Boost, Phonk Drive, Slowed + Reverb, Nightcore, 8D Playlist, shuffle, and repeat functions Record and save videos with visualizers in MP4 format
 rasm: aveeplayer.jpg
 link: https://player.dexo.dpdns.org/
+
+nom: DexoLive
+tavsif: DexoLive — jonli efir va tasodifiy video muloqot ilovasi. Google orqali kiring, efir boshlang yoki boshqalarning efirlarini tomosha qiling. Tomoshabinlar soni, layk, jonli chat, efirga qo‘shilish so‘rovi va yuz effektlari (toj, ko‘zoynak, mo‘ylov, mushuk quloqlari) mavjud. Telefon uchun ilova sifatida o‘rnatish mumkin.
+rasm: dexolive.png
+link: https://live.dexo.dpdns.org
